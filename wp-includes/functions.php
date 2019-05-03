@@ -6887,3 +6887,4 @@ function wp_direct_php_update_button() {
 	);
 	echo '</p>';
 }
+
