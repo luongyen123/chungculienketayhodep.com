@@ -17,7 +17,7 @@
  *
  * @package WordPress
  */
-header('X-Frame-Options: SAMPORIGIN');
+header('X-Frame-Options: SAMEORIGIN');
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'bzuwigtgxjfbgdrif9l6' );
